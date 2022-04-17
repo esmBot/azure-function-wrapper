@@ -1,0 +1,4 @@
+[submodule "esmBot"]
+	path = esmBot
+	url = https://github.com/esmBot/esmBot
+	branch = vips

@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "name": "job",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}

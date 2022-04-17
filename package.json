@@ -1,0 +1,12 @@
+{
+  "name": "esmbot-azure-wrapper",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "build": "cd esmBot && npm install --no-optional && npm run build"
+  },
+  "dependencies": {
+    "durable-functions": "^1.5.4",
+    "node-fetch": "^3.2.3"
+  }
+}
